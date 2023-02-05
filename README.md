@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/github/explore/14191328e15689ba52d5c10e18b43417bf79b2ef/topics/solana/solana.png" style="height:30px"/> Donate Kart 
-Donate Kart is a Crowdfunding Platform Powered by Solana
+Donate Kart is a crowdfunding platform powered by Solana, where users can create campaigns for any cause and raise funds using Solana.
 
 ## Problem Statement and Necessity
 Crowdfunding is one of the most popular ways to raise funds for any project, cause or for helping any individual in need. With the onset of Covid we have seen a rise in Crowdfunding activities across the globe which includes small campaigns to help people get oxygen and medical help to large funds such as PM Cares.
