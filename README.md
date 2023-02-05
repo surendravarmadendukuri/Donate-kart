@@ -25,3 +25,10 @@ yarn install
 ```
 yarn start
 ```
+
+### Video
+<a href="https://www.loom.com/share/328a87d7f3084deb96984e636c2f590b">Click Here</a>
+
+### Smart Contract At:
+<a href="https://github.com/surendravarmadendukuri/Donate-kart/blob/bde481160c216db9c48403966289a948c8417f21/programs/crowdfunding/src/lib.rs#L33">Donate</a><br/>
+<a href="https://github.com/surendravarmadendukuri/Donate-kart/blob/bde481160c216db9c48403966289a948c8417f21/programs/crowdfunding/src/lib.rs#L18">Withdraw</a>
